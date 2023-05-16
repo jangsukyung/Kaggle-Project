@@ -7,6 +7,7 @@
 
 [3. PDF 파일](https://jangsukyung-store-sales-project-main-app-o9qgi7.streamlit.app/, "PDF Link")<br/>
 
+---
 ![image](https://github.com/jangsukyung/Store-Sales-Project/blob/main/img/main-store.png)
 
 ## 목적
