@@ -21,7 +21,8 @@ Store Sales 대회에서 제공하는 데이터를 사용하였습니다.<br/>
 ### [Store Sales Data](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data, "Data Link") <br/>
 
 ## ✔ ERD
-내용<br/>
+![image](https://github.com/jangsukyung/Store-Sales-Project/blob/main/img/STORESALES_EDR.png)
+<br/>
 
 ## ✔ 팀 구성
 - 사용언어 : Python 3.10.10
