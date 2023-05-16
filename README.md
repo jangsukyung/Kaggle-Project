@@ -1,18 +1,18 @@
 # Kaggle Store Sales - 시계열 예측 (~ 2023.05.17)
 
-[1. Streamlit 웹 서비스]("https://jangsukyung-store-sales-project-main-app-o9qgi7.streamlit.app/", "Streamlit Link")<br/>
-[2. 발표 영상]("https://jangsukyung-store-sales-project-main-app-o9qgi7.streamlit.app/", "Presentation Link")<br/>
-[3. PDF 파일]("https://jangsukyung-store-sales-project-main-app-o9qgi7.streamlit.app/", "PDF Link")<br/>
+![1. Streamlit 웹 서비스]("https://jangsukyung-store-sales-project-main-app-o9qgi7.streamlit.app/", "Streamlit Link")<br/>
+![2. 발표 영상]("https://jangsukyung-store-sales-project-main-app-o9qgi7.streamlit.app/", "Presentation Link")<br/>
+![3. PDF 파일]("https://jangsukyung-store-sales-project-main-app-o9qgi7.streamlit.app/", "PDF Link")<br/>
 ---
 ![image](https://github.com/jangsukyung/Store-Sales-Project/blob/main/img/main-store.png)
 
 ## 목적
 Kaggle Store Sales 대회에서 시계열 데이터를 사용하여 Corporación Favorita라는 대규모 에콰도르 **식료품 소매업체 매출 예측** 및 Streamlit 활용 **웹 서비스 구현**<br/>
-[Kaggle Store Sales 대회]("https://www.kaggle.com/competitions/store-sales-time-series-forecasting", "Kaggle Link")<br/>
+![Kaggle Store Sales 대회]("https://www.kaggle.com/competitions/store-sales-time-series-forecasting", "Kaggle Link")<br/>
 
 ## 데이터
 Store Sales 대회에서 제공하는 데이터를 사용하였습니다.<br/>
-[Store Sales Data]("https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data", "Data Link")<br/>
+![Store Sales Data]("https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data", "Data Link")<br/>
 
 ## ERD
 내용<br/>
