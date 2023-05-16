@@ -10,27 +10,27 @@
 ---
 ![image](https://github.com/jangsukyung/Store-Sales-Project/blob/main/img/main-store.png)
 
-## 목적
+## ✔ 목적
 Kaggle Store Sales 대회에서 시계열 데이터를 사용하여 Corporación Favorita라는 대규모 에콰도르 **식료품 소매업체 매출 예측** 및 Streamlit 활용 **웹 서비스 구현**<br/>
 
 ### [Kaggle Store Sales 대회](https://www.kaggle.com/competitions/store-sales-time-series-forecasting, "Kaggle Link") <br/>
 
-## 데이터
+## ✔ 데이터
 Store Sales 대회에서 제공하는 데이터를 사용하였습니다.<br/>
 
 ### [Store Sales Data](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data, "Data Link") <br/>
 
-## ERD
+## ✔ ERD
 내용<br/>
 
-## 팀 구성
+## ✔ 팀 구성
 - 사용언어 : Python 3.10.10
 - 작업툴 : VS Code
 - 인원 : 4명
 - 주요 업무 : Streamlit 라이브러리 활용 웹 서비스 구현 및 머신러닝을 활용한 매장 매출 예측
 - 기간 : 2023.05.01 ~ 2023.05.17
 
-## 주요 기능
+## ✔ 주요 기능
 - **INTRO 페이지**
   - Store Sales 대회에 대한 소개, 목표, 분석 단계에 대한 설명
 - **DATA 페이지**
@@ -54,7 +54,7 @@ Store Sales 대회에서 제공하는 데이터를 사용하였습니다.<br/>
   - 주/월 단순이동평균선 및 지수이동평균선 시각화
 - **ML**
   - RandomForest 모델을 사용한 상점별 매출 및 거래량 예측
-## 설치 방법
+## ✔ 설치 방법
 
 ### Windows
 - 버전 확인
